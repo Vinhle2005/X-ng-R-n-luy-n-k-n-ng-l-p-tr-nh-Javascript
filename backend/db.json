@@ -1,0 +1,48 @@
+{
+  "products": [
+    {
+      "name": "Le Chis VInh",
+      "image": "https://baohanam.com.vn/DATA/IMAGES/2022/09/09/20220909085625-56niem-vui-dc-mua.jpg",
+      "price": "230000",
+      "description": "dsdsdsaaaa",
+      "id": 4
+    },
+    {
+      "name": "Vũ Duy Phạm",
+      "image": "https://www.pinterest.com/pin/651192427391248808/",
+      "price": "450000",
+      "description": "ngon bo re",
+      "id": 6
+    },
+    {
+      "name": "admin",
+      "image": "https://i.pinimg.com/236x/0b/78/ed/0b78ed8fe741b13f1fab8f2dc01a404e.jpg",
+      "price": "340000",
+      "description": "okkkkkkkkkkkkkkkkkkk",
+      "id": 7
+    },
+    {
+      "name": "Hiệp Thối",
+      "image": "https://www.pinterest.com/pin/651192427391248808/",
+      "price": "340000",
+      "description": "Ảnh con cá",
+      "id": 8
+    }
+  ],
+  "users": [
+    {
+      "email": "lechivinh11122005@gmail.com",
+      "password": "$2a$10$PhRPYt.uB5Y1wTd9vScnz.PNkoT.NADUlbCTUt5sWNlF2F0kDWev6",
+      "name": "Vinh",
+      "role": "admin",
+      "id": 1
+    },
+    {
+      "email": "lechivinhlengoctra@gmail.com",
+      "password": "$2a$10$pPlmNCQmHNGh6kgBgCedr.X6Nvv879g0OOOBsUTtWU/qv6hzA7H2q",
+      "name": "Vinh2",
+      "role": "user",
+      "id": 2
+    }
+  ]
+}
